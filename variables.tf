@@ -1,4 +1,4 @@
 variable "image"{
- description = "imagen for contoiner"
+ description = "imagen for container"
  default ="ghost:latest"
 }
